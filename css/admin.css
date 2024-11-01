@@ -1,0 +1,14 @@
+.tracify-settings-logo {
+  height: 40px;
+}
+
+.tracify-form input[type="submit"] {
+  background: #6254FF;
+  border-color: #6254FF;
+}
+
+@media screen and (min-width: 480px) {
+  .tracify-settings-intro-text {
+    max-width: 60%;
+  }
+}
